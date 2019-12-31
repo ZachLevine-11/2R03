@@ -1,7 +1,7 @@
 # **Zachary Levine's Tutorial Page, ArtSci 2R03, Winter 2020**
 *Welcome to the homepage for Zach Levine's ArtSci 2R03 tutorial.*
 
- Please bookmark this site, and check it regularly for any updates. In addition, all R code used tutorials will be posted here, as well as any other useful information.
+ Please bookmark this site, and check it regularly for any updates. In addition, all R code used during tutorials will be posted here, as well as any other useful information.
 
 **Tutorial date/time:  Tuesdays from 9:30 to 10:20 am in HH 102**
 
