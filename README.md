@@ -6,7 +6,7 @@
 **Tutorial date/time:  Tuesdays from 9:30 to 10:20 am in HH 102**
 
 
-## Useful resources in your learning of R:
+## Resources to aid in your learning of R:
 
  - [DataCamp's Free interactive tutorial, an introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
  - [R for Data Science, by Hadley Wickham](https://r4ds.had.co.nz/)
