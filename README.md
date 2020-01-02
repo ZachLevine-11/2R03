@@ -8,7 +8,7 @@
 
 ## Free resources to aid in your learning of R:
 
- -  [Swirl, an interactive console-based course package for learning R] (https://swirlstats.com/)
+ - [Swirl, an interactive console-based course package for learning R](https://swirlstats.com/)
  - [DataCamp's Free interactive tutorial, an introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
  - [R for Data Science, by Hadley Wickham](https://r4ds.had.co.nz/)
  -  [Codeacademy's Learn R tutorial set](https://www.codecademy.com/learn/learn-r)
