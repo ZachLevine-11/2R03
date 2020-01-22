@@ -15,3 +15,5 @@ Check out the Looping Tutorial, or run the Demo application to try out some of R
  - [R for Data Science, by Hadley Wickham](https://r4ds.had.co.nz/)
  -  [Codeacademy's Learn R tutorial set](https://www.codecademy.com/learn/learn-r)
 
+## Packages that it would be useful to learn to use
+- The tidyverse (install.packages("tidyverse")), most notably *dplyr, ggplot, and modelr*
