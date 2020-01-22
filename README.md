@@ -18,4 +18,4 @@ Check out the Looping Tutorial, or run the Demo application to play around a bit
 ## Packages that it would be useful to learn to use
 - The tidyverse, most notably *dplyr, ggplot, and modelr*.
 To install, enter "install.packages("tidyverse")" (without quotes) into the R console. Remember to load a package (or the entire tidyverse, though it's not necessary) every time you're calling one of it's built-in methods. Most notably, base R graphics methods can be cumbersome to use and unpleasing to the eye, so ggplot can be quite useful that way. Dplyr is quite great for data manipulation and contains methods you either won't find in base R, or optimized forms that are friendlier to you, the programmer.
-- LaTeX. You could go as far as to use it for your assignments/final project, it's far from necessary to do so.
+- LaTeX. You could go as far as to use it for your assignments/final project, though it's far from necessary to do so.
